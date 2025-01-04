@@ -1,4 +1,5 @@
 **Sentiment Analysis Using Textual Reviews**
+
 **Overview**
 
 This project focuses on analyzing sentiment from textual reviews using machine learning techniques. The pipeline involves comprehensive text preprocessing, feature extraction, and classification, resulting in a model capable of effectively identifying sentiment labels.
